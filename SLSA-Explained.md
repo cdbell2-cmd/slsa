@@ -1,9 +1,5 @@
 # SLSA Explained Simply
 
-> **Feynman approach:** If you can't explain it simply, you don't understand it well enough.  
-> This document explains SLSA as if you've never heard of it — then builds to what it means for your pipelines.
-
----
 
 ## Start here: the problem we're solving
 
